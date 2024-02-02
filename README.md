@@ -1,4 +1,4 @@
-# Smart management system front-end SQL injection vulnerability
+# Smart multi-service security gateway intelligent management platform front-end SQL injection vulnerability
 
 BUG_Author: Murasaki
 
